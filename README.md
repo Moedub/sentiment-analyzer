@@ -26,7 +26,7 @@ python3 simple_sentiment_analyzer.py
 
 Results
 
-<img width="448" height="357" alt="image" src="https://github.com/user-attachments/assets/7461a591-e50b-49aa-8721-fbb1f29d32ae" />
+![Confusion Matrix](confusion_matrix.png)
 
 Author: Mohamed Ismail
 GitHub: @Moedub
